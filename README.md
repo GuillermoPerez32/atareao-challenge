@@ -5,8 +5,6 @@ resolution of "atareao" challenges
 
 [link to the challenge](https://atareao.es/tutorial/reto-python/)
 
-([]) sds
-
 * [x] Day 1
 * [ ] Day 2
 * [ ] Day 3
